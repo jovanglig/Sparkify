@@ -29,10 +29,15 @@ The models used and their performance metrics:
 **Logistic Regression**
 
 The accuracy on the test set is **83.33%** 
+
 The F1 score on the test set is **80.37%** 
+
 The areaUnderROC (AUC) on the test set is **81.02%**
+
 The hyperparameters of the best model are: 
+
 maximum iterations: 10
+
 regularization parameter: 0
 
 **Best model**:
@@ -40,19 +45,29 @@ regularization parameter: 0
 **Random Forest**
 
 The accuracy on the test set is **94.49%**
+
 The F1 score on the test set is **83.74%**
+
 The areaUnderROC (AUC) on the test set is **84.44%**
+
 The hyperparameters of the best model are:
+
 number of trees: 20
+
 maximum depth: 20
 
 **Gradient Boosted Trees**
 
 The accuracy on the test set is **85.41%**
+
 The F1 score on the test set is **82.73%**
+
 The areaUnderROC (AUC)on the test set is **82.58%**
+
 The hyperparameters of the best model are:
+
 maximum iterations: 10
+
 maximum depth: 5
 
 
